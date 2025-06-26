@@ -49,9 +49,8 @@ export default function Footer() {
             <ul className="space-y-2 text-gray-300">
               <li>Aluminum Die Casting</li>
               <li>CNC Machining</li>
-              <li>Component Painting</li>
               <li>Custom Manufacturing</li>
-              <li>Painting to custom powder coating</li>
+              <li>Custom Powder Coating</li>
             </ul>
           </div>
         </div>
