@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="col-span-1 md:col-span-2">
             <h3 className="text-xl font-bold mb-4">Alloy Castech</h3>
             <p className="text-gray-300 mb-4 max-w-md">
-              Leading manufacturer of precision aluminum die-cast components, CNC machined parts, and painted assemblies since 2007.
+              Leading manufacturer of precision aluminum die-cast components, CNC machined parts, and painted assemblies since 2023.
             </p>
             <div className="flex space-x-4">
               <a 
