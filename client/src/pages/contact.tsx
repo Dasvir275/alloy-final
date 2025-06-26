@@ -113,6 +113,9 @@ export default function Contact() {
                     <a href="tel:+919896032299" className="text-primary hover:text-primary/80">
                       +91-9896032299
                     </a>
+                                        <a href="tel:+918295032299" className="text-primary hover:text-primary/80">
+                      +91-8295032299
+                    </a>
                   </div>
                 </div>
 
